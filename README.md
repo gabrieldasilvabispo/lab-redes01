@@ -27,16 +27,12 @@ o projeto sere realizado em duas etapas
 - 1 roteador wireles com 1 porta WAN e 4 portas LAN
 - 1 impressora de rede
 
----
-
 
 ##3. Topologia da rede 
 diagrama logico da rede utilizada neste laboratorio:
 
-``` mermaid
+```mermaid
 graph TD
-
-
 
 WAN[ internet / WAN de provedor]
 
@@ -54,6 +50,9 @@ Router -->|LAN 1| PC1
 Router -->|LAN 2| PC2
 Router -->|LAN 3| PC3
 Router -->|LAN 4| Printer
+
+"[](Topologia.png)
+
 
 
 
