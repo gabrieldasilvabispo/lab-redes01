@@ -3,7 +3,7 @@
 # Laboratorio de redes 01 - projetos de rede local
 Projeto desenvolvido na disciplica de redes de computadores no curso tecnico de informática do Senac
 
-aluno: Gabriel da silva bispo
+aluno: Gabriel da Silva Bispo
 
 professor: José de assis 
 
@@ -12,7 +12,7 @@ Data: 09/03/2025
 ---
 
 ##1. Objetivo
-implementar uma rede local simples conctando 3 nootbokks a um roteador simples com switch intergrado e uma impressora de rede.
+implementar uma rede local simples conectando  3  notebooks a um roteador simples com switch intergrado e uma impressora de rede.
 
 o projeto sere realizado em duas etapas 
 
@@ -23,6 +23,29 @@ o projeto sere realizado em duas etapas
 
 ## 2. equipamentos utilizados neste laboratorio 
 
-- 3 tres notebooks
+- 3 três notebooks
 - 1 roteador wireles com 1 porta WAN e 4 portas LAN
-- 1 impressora de rede  
+- 1 impressora de rede
+
+---
+
+
+##3. Topologia da rede 
+diagrama logico da rede utilizada neste laboratorio:
+
+``` mermaid
+graph TD
+
+
+
+WAN[ internet / WAN de provedor]
+
+router[Roteador wireless<br>1 porta WAN<br>4 portas LAN]
+
+PC1[Notebook 1]
+PC2[Notebook 2]
+PC3[Notebook 3]
+
+Printer[impressra de rede]
+
+
