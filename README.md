@@ -1,8 +1,28 @@
 ![GitHub License](https://img.shields.io/github/license/gabrieldasilvabispo/lab-redes01)
 
-# laboratorio de redes 01 - projetos de rede local
+# Laboratorio de redes 01 - projetos de rede local
 Projeto desenvolvido na disciplica de redes de computadores no curso tecnico de informática do Senac
 
 aluno: Gabriel da silva bispo
+
 professor: José de assis 
+
 Data: 09/03/2025
+
+---
+
+##1. Objetivo
+implementar uma rede local simples conctando 3 nootbokks a um roteador simples com switch intergrado e uma impressora de rede.
+
+o projeto sere realizado em duas etapas 
+
+1. simulação da rede no cisco packet tracer
+2. implementação da rede no laboratorio real
+
+---
+
+## 2. equipamentos utilizados neste laboratorio 
+
+- 3 tres notebooks
+- 1 roteador wireles com 1 porta WAN e 4 portas LAN
+- 1 impressora de rede  
