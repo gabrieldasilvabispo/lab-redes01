@@ -16,10 +16,10 @@ implementar uma rede local simples conectando  3  notebooks a um roteador simple
 
 o projeto sere realizado em duas etapas 
 
-1. simulação da rede no cisco packet tracer
-2. implementação da rede no laboratorio real
+1. Simulação da rede no cisco packet tracer
+2. Implementação da rede no laboratorio real
 
-## 2. equipamentos utilizados neste laboratorio 
+## 2. Equipamentos utilizados neste laboratorio 
 
 - 3 três notebooks
 - 1 roteador wireles com 1 porta WAN e 4 portas LAN
@@ -72,13 +72,13 @@ Gateway: 192.168.0.1
 **Observação**
 
 - A impressora é um do notebooks utilizam reserva DHCP.
-- o Roteador sempre atribui o mesmo endereço IP a esses dispositivos.
+- O Roteador sempre atribui o mesmo endereço IP a esses dispositivos.
 
 ---
 
 ##5. Implemaentação no laboratório real
 
-após a instalação, a rede foi montada fisicamente no laboratorio 
+Após a instalação, a rede foi montada fisicamente no laboratorio 
 
 Etapas realizadas:
 
