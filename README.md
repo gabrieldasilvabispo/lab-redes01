@@ -19,8 +19,6 @@ o projeto sere realizado em duas etapas
 1. simulação da rede no cisco packet tracer
 2. implementação da rede no laboratorio real
 
----
-
 ## 2. equipamentos utilizados neste laboratorio 
 
 - 3 três notebooks
@@ -46,12 +44,14 @@ Printer[impressra de rede]
 
 WAN --->|Porta WAN| Router
 
-Router -->|LAN 1| PC1
-Router -->|LAN 2| PC2
-Router -->|LAN 3| PC3
-Router -->|LAN 4| Printer
+Router --> |LAN 1| PC1
+Router --> |LAN 2| PC2
+Router --> |LAN 3| PC3
+Router --> |LAN 4| Printer
+```
 
-"[](Topologia.png)
+
+![](Topologia.png)
 
 
 
